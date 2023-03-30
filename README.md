@@ -1,2 +1,2 @@
 # topics_in_AI
-Projetos desenvolvidos na área de inteligência artificial
+Projetos desenvolvidos sobre tópicos em inteligência artificial
